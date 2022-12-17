@@ -4,7 +4,7 @@ document.body.innerHTML = "<h1>Hello World</h1>";
 // Your code here
 let img = document.createElement("img");
 
-// console.dir(img)
+// console.dir(img) => para acceder y ver las propiedas
 
 img.setAttribute( "src", "https://via.placeholder.com/350x150" )
 
